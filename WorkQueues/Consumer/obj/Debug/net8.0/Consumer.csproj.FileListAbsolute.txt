@@ -15,3 +15,4 @@ d:\ME\SideProjects\RabbitMQ\DocumentationRabbitMQ\WorkQueues\Consumer\obj\Debug\
 d:\ME\SideProjects\RabbitMQ\DocumentationRabbitMQ\WorkQueues\Consumer\obj\Debug\net8.0\Consumer.pdb
 d:\ME\SideProjects\RabbitMQ\DocumentationRabbitMQ\WorkQueues\Consumer\obj\Debug\net8.0\Consumer.genruntimeconfig.cache
 d:\ME\SideProjects\RabbitMQ\DocumentationRabbitMQ\WorkQueues\Consumer\obj\Debug\net8.0\ref\Consumer.dll
+D:\ME\SideProjects\RabbitMQ\DocumentationRabbitMQ\WorkQueues\Consumer\obj\Debug\net8.0\Consumer.sourcelink.json
